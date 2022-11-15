@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TableLayout1</string>
+    <string name="name_text">Nombre</string>
+    <string name="text_button">Edit Profile</string>
+    <string name="followers_text">Followers</string>
+    <string name="following_text">Following</string>
+    <string name="star_Text">Estrellita</string>
+    <string name="todo">TODO</string>
+</resources>
